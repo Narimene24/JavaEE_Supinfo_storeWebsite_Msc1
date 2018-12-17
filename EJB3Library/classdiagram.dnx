@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_4G_qwUFrEd2Kn8dpHSvSnQ" type="Class" name="classdiagram.dnx">
+  <children xmi:id="_EHwG4EFsEd2Kn8dpHSvSnQ">
+    <children xmi:id="_EIDo4EFsEd2Kn8dpHSvSnQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_EIDo4UFsEd2Kn8dpHSvSnQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_EIDo4kFsEd2Kn8dpHSvSnQ" type="Stereotype"/>
+    <children xmi:id="_EIDo40FsEd2Kn8dpHSvSnQ" type="Name"/>
+    <children xmi:id="_EIDo5EFsEd2Kn8dpHSvSnQ" type="Parent"/>
+    <children xmi:id="_EIDo5UFsEd2Kn8dpHSvSnQ" type="EJB3ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_EIDo5kFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_EIMy0EFsEd2Kn8dpHSvSnQ" type="EJB3ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_EIMy0UFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_EIMy0kFsEd2Kn8dpHSvSnQ" type="EJB3OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_EIMy00FsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_EHwG4UFsEd2Kn8dpHSvSnQ" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Author%5Bjcu%5Ename=Author.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EHwG4kFsEd2Kn8dpHSvSnQ" x="5072" y="1902"/>
+  </children>
+  <children xmi:id="_Qg84MUFsEd2Kn8dpHSvSnQ">
+    <children xmi:id="_Qg84NEFsEd2Kn8dpHSvSnQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Qg84NUFsEd2Kn8dpHSvSnQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_Qg84NkFsEd2Kn8dpHSvSnQ" type="Stereotype"/>
+    <children xmi:id="_Qg84N0FsEd2Kn8dpHSvSnQ" type="Name"/>
+    <children xmi:id="_Qg84OEFsEd2Kn8dpHSvSnQ" type="Parent"/>
+    <children xmi:id="_Qg84OUFsEd2Kn8dpHSvSnQ" type="EJB3ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Qg84OkFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_Qg84O0FsEd2Kn8dpHSvSnQ" type="EJB3ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Qg84PEFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_Qg84PUFsEd2Kn8dpHSvSnQ" type="EJB3OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Qg84PkFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Qg84MkFsEd2Kn8dpHSvSnQ" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qg84M0FsEd2Kn8dpHSvSnQ" x="13314" y="3804"/>
+  </children>
+  <children xmi:id="_twt-CUFsEd2Kn8dpHSvSnQ">
+    <children xmi:id="_twt-DEFsEd2Kn8dpHSvSnQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_twt-DUFsEd2Kn8dpHSvSnQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_twt-DkFsEd2Kn8dpHSvSnQ" type="Stereotype"/>
+    <children xmi:id="_twt-D0FsEd2Kn8dpHSvSnQ" type="Name"/>
+    <children xmi:id="_twt-EEFsEd2Kn8dpHSvSnQ" type="Parent"/>
+    <children xmi:id="_twt-EUFsEd2Kn8dpHSvSnQ" type="EJB3ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_twt-EkFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_twt-E0FsEd2Kn8dpHSvSnQ" type="EJB3ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_twt-FEFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_twt-FUFsEd2Kn8dpHSvSnQ" type="EJB3OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_twt-FkFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_twt-CkFsEd2Kn8dpHSvSnQ" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=BookLoan%5Bjcu%5Ename=BookLoan.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_twt-C0FsEd2Kn8dpHSvSnQ" x="6974" y="21556"/>
+  </children>
+  <children xmi:id="_8am_oEFsEd2Kn8dpHSvSnQ">
+    <children xmi:id="_8awJgkFsEd2Kn8dpHSvSnQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_8awJg0FsEd2Kn8dpHSvSnQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_8awJhEFsEd2Kn8dpHSvSnQ" type="Stereotype"/>
+    <children xmi:id="_8awJhUFsEd2Kn8dpHSvSnQ" type="Name"/>
+    <children xmi:id="_8awJhkFsEd2Kn8dpHSvSnQ" type="Parent"/>
+    <children xmi:id="_8awJh0FsEd2Kn8dpHSvSnQ" type="EJB3ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_8awJiEFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_8awJiUFsEd2Kn8dpHSvSnQ" type="EJB3ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_8awJikFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_8awJi0FsEd2Kn8dpHSvSnQ" type="EJB3OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_8awJjEFsEd2Kn8dpHSvSnQ"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_8awJgEFsEd2Kn8dpHSvSnQ" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Customer%5Bjcu%5Ename=Customer.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8awJgUFsEd2Kn8dpHSvSnQ" x="15533" y="17752"/>
+  </children>
+  <children xmi:id="_TiBABkFtEd2Kn8dpHSvSnQ">
+    <children xmi:id="_TiBACUFtEd2Kn8dpHSvSnQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_TiBACkFtEd2Kn8dpHSvSnQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_TiBAC0FtEd2Kn8dpHSvSnQ" type="Stereotype"/>
+    <children xmi:id="_TiBADEFtEd2Kn8dpHSvSnQ" type="Name"/>
+    <children xmi:id="_TiBADUFtEd2Kn8dpHSvSnQ" type="Parent"/>
+    <children xmi:id="_TiBADkFtEd2Kn8dpHSvSnQ" type="EJB3ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_TiBAD0FtEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_TiBAEEFtEd2Kn8dpHSvSnQ" type="EJB3ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_TiBAEUFtEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_TiBAEkFtEd2Kn8dpHSvSnQ" type="EJB3OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_TiBAE0FtEd2Kn8dpHSvSnQ"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_TiBAB0FtEd2Kn8dpHSvSnQ" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=UserManagerBean%5Bjcu%5Ename=UserManagerBean.java%5Bjpack%5Ename=sessions%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TiBACEFtEd2Kn8dpHSvSnQ" x="-634" y="21239"/>
+  </children>
+  <children xmi:id="_nU7J0EFtEd2Kn8dpHSvSnQ">
+    <children xmi:id="_nU7J00FtEd2Kn8dpHSvSnQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_nU7J1EFtEd2Kn8dpHSvSnQ" width="530" height="530"/>
+    </children>
+    <children xmi:id="_nU7J1UFtEd2Kn8dpHSvSnQ" type="Stereotype"/>
+    <children xmi:id="_nU7J1kFtEd2Kn8dpHSvSnQ" type="Kind"/>
+    <children xmi:id="_nU7J10FtEd2Kn8dpHSvSnQ" type="Name"/>
+    <children xmi:id="_nU7J2EFtEd2Kn8dpHSvSnQ" type="Parent"/>
+    <children xmi:id="_nU7J2UFtEd2Kn8dpHSvSnQ" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_nU7J2kFtEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_nU7J20FtEd2Kn8dpHSvSnQ" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_nU7J3EFtEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_nU7J3UFtEd2Kn8dpHSvSnQ" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_nU7J3kFtEd2Kn8dpHSvSnQ"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_nU7J0UFtEd2Kn8dpHSvSnQ" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=UserManagerBeanRemote%5Bjcu%5Ename=UserManagerBeanRemote.java%5Bjpack%5Ename=sessions%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nU7J0kFtEd2Kn8dpHSvSnQ" x="1585" y="11412"/>
+  </children>
+  <children xmi:id="_Z4lrH0FuEd2Kn8dpHSvSnQ">
+    <children xmi:id="_Z4lrIkFuEd2Kn8dpHSvSnQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Z4lrI0FuEd2Kn8dpHSvSnQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_Z4lrJEFuEd2Kn8dpHSvSnQ" type="Stereotype"/>
+    <children xmi:id="_Z4lrJUFuEd2Kn8dpHSvSnQ" type="Name"/>
+    <children xmi:id="_Z4lrJkFuEd2Kn8dpHSvSnQ" type="Parent"/>
+    <children xmi:id="_Z4lrJ0FuEd2Kn8dpHSvSnQ" type="EJB3ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Z4lrKEFuEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_Z4lrKUFuEd2Kn8dpHSvSnQ" type="EJB3ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Z4lrKkFuEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_Z4lrK0FuEd2Kn8dpHSvSnQ" type="EJB3OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Z4lrLEFuEd2Kn8dpHSvSnQ"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Z4lrIEFuEd2Kn8dpHSvSnQ" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AdminManagerBean%5Bjcu%5Ename=AdminManagerBean.java%5Bjpack%5Ename=sessions.admin%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z4lrIUFuEd2Kn8dpHSvSnQ" x="-8348" y="2853"/>
+  </children>
+  <children xmi:id="_dm2skEFuEd2Kn8dpHSvSnQ">
+    <children xmi:id="_dm2sk0FuEd2Kn8dpHSvSnQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_dm2slEFuEd2Kn8dpHSvSnQ" width="530" height="530"/>
+    </children>
+    <children xmi:id="_dm2slUFuEd2Kn8dpHSvSnQ" type="Stereotype"/>
+    <children xmi:id="_dm2slkFuEd2Kn8dpHSvSnQ" type="Kind"/>
+    <children xmi:id="_dm2sl0FuEd2Kn8dpHSvSnQ" type="Name"/>
+    <children xmi:id="_dm2smEFuEd2Kn8dpHSvSnQ" type="Parent"/>
+    <children xmi:id="_dm2smUFuEd2Kn8dpHSvSnQ" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_dm2smkFuEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_dm2sm0FuEd2Kn8dpHSvSnQ" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_dm2snEFuEd2Kn8dpHSvSnQ"/>
+    </children>
+    <children xmi:id="_dm2snUFuEd2Kn8dpHSvSnQ" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_dm2snkFuEd2Kn8dpHSvSnQ"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_dm2skUFuEd2Kn8dpHSvSnQ" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=AdminManagerBeanLocal%5Bjcu%5Ename=AdminManagerBeanLocal.java%5Bjpack%5Ename=sessions.admin%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dm2skkFuEd2Kn8dpHSvSnQ" x="-8242" y="16167"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_4G_qwkFrEd2Kn8dpHSvSnQ"/>
+  <element xsi:nil="true"/>
+  <edges xmi:id="_tx6Q0EFsEd2Kn8dpHSvSnQ" source="_twt-CUFsEd2Kn8dpHSvSnQ" target="_Qg84MUFsEd2Kn8dpHSvSnQ">
+    <children xmi:id="_tx6Q00FsEd2Kn8dpHSvSnQ" type="KindLabel">
+      <children xmi:id="_tx6Q1UFsEd2Kn8dpHSvSnQ" type="Stereotype"/>
+      <children xmi:id="_tx6Q10FsEd2Kn8dpHSvSnQ" type="Kind"/>
+      <children xmi:id="_tx6Q1kFsEd2Kn8dpHSvSnQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tx6Q1EFsEd2Kn8dpHSvSnQ" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tx6Q0UFsEd2Kn8dpHSvSnQ" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BookLoan%5Bjcu%5Ename=BookLoan.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tx6Q0kFsEd2Kn8dpHSvSnQ" points="[1081, -6879, -4783, 11981]$[1732, -11026, -4132, 7834]$[3008, -13445, -2856, 5415]"/>
+  </edges>
+  <edges xmi:id="_nWRNoEFtEd2Kn8dpHSvSnQ" source="_TiBABkFtEd2Kn8dpHSvSnQ" target="_nU7J0EFtEd2Kn8dpHSvSnQ">
+    <children xmi:id="_nWRNo0FtEd2Kn8dpHSvSnQ" type="NameLabel">
+      <children xmi:id="_nWRNpUFtEd2Kn8dpHSvSnQ" type="Stereotype"/>
+      <children xmi:id="_nWRNpkFtEd2Kn8dpHSvSnQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nWRNpEFtEd2Kn8dpHSvSnQ" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_nWRNoUFtEd2Kn8dpHSvSnQ" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=UserManagerBean%5Bjcu%5Ename=UserManagerBean.java%5Bjpack%5Ename=sessions%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=UserManagerBeanRemote%5Bjcu%5Ename=UserManagerBeanRemote.java%5Bjpack%5Ename=sessions%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_nWRNokFtEd2Kn8dpHSvSnQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_dnKOkEFuEd2Kn8dpHSvSnQ" source="_Z4lrH0FuEd2Kn8dpHSvSnQ" target="_dm2skEFuEd2Kn8dpHSvSnQ">
+    <children xmi:id="_dnKOk0FuEd2Kn8dpHSvSnQ" type="NameLabel">
+      <children xmi:id="_dnKOlUFuEd2Kn8dpHSvSnQ" type="Stereotype"/>
+      <children xmi:id="_dnKOlkFuEd2Kn8dpHSvSnQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dnKOlEFuEd2Kn8dpHSvSnQ" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_dnKOkUFuEd2Kn8dpHSvSnQ" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=AdminManagerBean%5Bjcu%5Ename=AdminManagerBean.java%5Bjpack%5Ename=sessions.admin%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AdminManagerBeanLocal%5Bjcu%5Ename=AdminManagerBeanLocal.java%5Bjpack%5Ename=sessions.admin%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dnKOkkFuEd2Kn8dpHSvSnQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_2-JPgUFvEd2Kn8dpHSvSnQ" source="_Qg84MUFsEd2Kn8dpHSvSnQ" target="_EHwG4EFsEd2Kn8dpHSvSnQ">
+    <children xmi:id="_2-JPhEFvEd2Kn8dpHSvSnQ" type="FromMultiplicityLabel">
+      <children xmi:id="_2-JPhkFvEd2Kn8dpHSvSnQ" type="FromMultiplicity"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2-JPhUFvEd2Kn8dpHSvSnQ" y="396"/>
+    </children>
+    <children xmi:id="_2-JPh0FvEd2Kn8dpHSvSnQ" type="FromRoleLabel">
+      <children xmi:id="_2-JPiUFvEd2Kn8dpHSvSnQ" type="FromRole"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2-JPiEFvEd2Kn8dpHSvSnQ" y="-397"/>
+    </children>
+    <children xmi:id="_2-JPikFvEd2Kn8dpHSvSnQ" type="associationTypeLabel">
+      <children xmi:id="_2-JPjEFvEd2Kn8dpHSvSnQ" type="associationTypeCompartment"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_2-JPi0FvEd2Kn8dpHSvSnQ" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_2-JPgkFvEd2Kn8dpHSvSnQ" showStereotype="Text"/>
+    <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=author%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D$uml.Property"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2-JPg0FvEd2Kn8dpHSvSnQ" points="[-84, -33, 387, 104]$[-415, -263, 56, -126]"/>
+  </edges>
+  <edges xmi:id="_6zH9AkFvEd2Kn8dpHSvSnQ" source="_twt-CUFsEd2Kn8dpHSvSnQ" target="_8am_oEFsEd2Kn8dpHSvSnQ">
+    <children xmi:id="_6zH9BUFvEd2Kn8dpHSvSnQ" type="FromMultiplicityLabel">
+      <children xmi:id="_6zH9B0FvEd2Kn8dpHSvSnQ" type="FromMultiplicity"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_6zH9BkFvEd2Kn8dpHSvSnQ" y="396"/>
+    </children>
+    <children xmi:id="_6zH9CEFvEd2Kn8dpHSvSnQ" type="FromRoleLabel">
+      <children xmi:id="_6zH9CkFvEd2Kn8dpHSvSnQ" type="FromRole"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_6zH9CUFvEd2Kn8dpHSvSnQ" y="-397"/>
+    </children>
+    <children xmi:id="_6zH9C0FvEd2Kn8dpHSvSnQ" type="associationTypeLabel">
+      <children xmi:id="_6zH9DUFvEd2Kn8dpHSvSnQ" type="associationTypeCompartment"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_6zH9DEFvEd2Kn8dpHSvSnQ" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_6zH9A0FvEd2Kn8dpHSvSnQ" showStereotype="Text"/>
+    <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=customer1%5Bjsrctype%5Ename=BookLoan%5Bjcu%5Ename=BookLoan.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D$uml.Property"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6zH9BEFvEd2Kn8dpHSvSnQ" points="[83, -66, -166, 60]$[158, -333, -91, -207]"/>
+  </edges>
+  <edges xmi:id="_7bp8oUFvEd2Kn8dpHSvSnQ" source="_twt-CUFsEd2Kn8dpHSvSnQ" target="_Qg84MUFsEd2Kn8dpHSvSnQ">
+    <children xmi:id="_7bp8pEFvEd2Kn8dpHSvSnQ" type="FromMultiplicityLabel">
+      <children xmi:id="_7bp8pkFvEd2Kn8dpHSvSnQ" type="FromMultiplicity"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7bp8pUFvEd2Kn8dpHSvSnQ" y="396"/>
+    </children>
+    <children xmi:id="_7bp8p0FvEd2Kn8dpHSvSnQ" type="FromRoleLabel">
+      <children xmi:id="_7bp8qUFvEd2Kn8dpHSvSnQ" type="FromRole"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7bp8qEFvEd2Kn8dpHSvSnQ" y="-397"/>
+    </children>
+    <children xmi:id="_7bp8qkFvEd2Kn8dpHSvSnQ" type="associationTypeLabel">
+      <children xmi:id="_7bp8rEFvEd2Kn8dpHSvSnQ" type="associationTypeCompartment"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_7bp8q0FvEd2Kn8dpHSvSnQ" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_7bp8okFvEd2Kn8dpHSvSnQ" showStereotype="Text"/>
+    <element xmi:type="uml:Property" href="mmi:///#jfield%5Ename=book1%5Bjsrctype%5Ename=BookLoan%5Bjcu%5Ename=BookLoan.java%5Bjpack%5Ename=entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=EJB3Library%5D%5D%5D%5D%5D$uml.Property"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7bp8o0FvEd2Kn8dpHSvSnQ" points="[2618, -6879, -3246, 11981]$[3955, -10391, -1909, 8469]$[4635, -13406, -1229, 5454]"/>
+  </edges>
+</notation:Diagram>
